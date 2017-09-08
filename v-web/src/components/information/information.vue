@@ -1,21 +1,31 @@
 <template>
-    
+
 </template>
 
 <script>
+    import axios from 'axios'
     export default {
-        computed:{
-            
+        methods: {
+  
+        
+
         },
-
-        methods:{
-            
-        }
-
+            computed: {
+                
+            }
     }
-    
+
+        
+        
+        
+        
+        
+        
+        
 </script>
 
 <style scoped>
 
+
 </style>
+

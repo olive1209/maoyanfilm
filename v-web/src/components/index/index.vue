@@ -49,13 +49,14 @@
         margin-left: 40px;
     }
     .left{
-        height: 595px;
+        height: 527px;
         background-color: #9FB6CD;
     }
     .right{
-         height: 595px;
+         height: 600px;
         background-image: url(../../assets/9885883_185208037000_2_01.png);
         background-repeat: no-repeat;
         background-size:100%;
+/*        overflow: hidden*/
     }
 </style>
